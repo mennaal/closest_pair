@@ -1,0 +1,6 @@
+https://www.geeksforgeeks.org/divide-and-conquer/
+
+real ex
+https://textbooks.cs.ksu.edu/cc310/4-data-structures-and-algorithms/13-divide-and-conquer/index.html
+
+ch.5 introduction to design and analysis of algorithms
